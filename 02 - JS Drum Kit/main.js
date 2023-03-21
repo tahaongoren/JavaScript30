@@ -19,3 +19,4 @@ const removeClassName = (e) => {
 keys.forEach((key) => key.addEventListener('transitionend', removeClassName));
 window.addEventListener('keydown', playSound);
 
+
